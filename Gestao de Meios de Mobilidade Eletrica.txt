@@ -1,0 +1,5 @@
+20 ; Sachs ; Saxonette ; 5 ; 508090 ; 125
+15 ; Honda ; Pan ; 80 ; 508090 ; 220
+100 ; Honda ; C110 ; 50 ; 508090 ; 50
+200 ; Sachs ; V5 ; 75 ; 250 ; 200
+50 ; Honda ; Hornete ; 50 ; 5485 ; 150
